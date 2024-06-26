@@ -11,5 +11,13 @@ Source Data : UCI Repository on breast cancer cells.
 You can read the complete article at :
 
 https://shtech-techfortheyouth.wordpress.com/2024/06/16/logistic-regression-recap/
+
 --------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
+
+**Gradient_Optimization.ipynb**
+
+
+You can read the complete article at:
+
+https://shtech-techfortheyouth.wordpress.com/2024/06/18/gradient-descent-optimization/
