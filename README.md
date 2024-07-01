@@ -36,6 +36,7 @@ Therefore, FlickrAPI can be a useful tool to train your models with access to th
 
 You can read the complete article at :
 
-https://wordpress.com/post/shtech-techfortheyouth.wordpress.com/
+https://shtech-techfortheyouth.wordpress.com/
+
 ---------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
