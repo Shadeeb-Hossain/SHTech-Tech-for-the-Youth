@@ -24,3 +24,18 @@ It uses the same dataset as "Logistic_regression.ipynb"
 You can read the complete article at:
 
 https://shtech-techfortheyouth.wordpress.com/2024/06/18/gradient-descent-optimization/
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+**Copy_of_Rotten_Food_Images.ipynb**
+
+Oftentimes, we need to train our AI models with readily available images from the internet to optimize them for prediction accuracy. 
+Accessing a large number of images and storing them on your disk is computationally expensive. 
+Therefore, FlickrAPI can be a useful tool to train your models with access to thousands of images from their database.
+
+You can read the complete article at :
+
+https://wordpress.com/post/shtech-techfortheyouth.wordpress.com/
+---------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
