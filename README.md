@@ -40,3 +40,20 @@ https://shtech-techfortheyouth.wordpress.com/
 
 ---------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
+
+**Support_Vector_Machine.ipynb**
+
+Support vector machines utilize hyperplanes to find the optimal boundary that maximizes the margin between different classes.
+
+In SVM, the hyperplane (line) is chosen so that it best separates the input variables by their class ['0' or '1'].
+
+MNIST is a database of handwritten digits that are used for training image processing systems. The MNISt contains 60,000 training and 10,000 test images of handwritten digits. 
+
+We would compare the accuracy of prediction of the handwritten MNIST datasets with and without the SVC (Support Vector Classifier). 
+
+As you can see without the SVC classifier the accuracy of prediction is only 88% however,the support vector classifier improves the accuracy to approximately 91%.
+
+You can read the complete article at:
+
+
+
